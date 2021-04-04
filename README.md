@@ -1,7 +1,7 @@
-# Google Forms Quiz Resolver
+# Google Forms Quiz Solver
 Some stupid people abuse the Google Forms validation to create quizzes and giveaways. This is not a good idea because the validation rules are in the source code of any survey. This script tries to extract exact answer conditions ("equal to") from Google Forms and solve them.
 
-<img src="https://github.com/zerodytrash/Google-Forms-Quiz-Resolver/raw/main/demo.png" height="500" />
+<img src="https://github.com/zerodytrash/Google-Forms-Quiz-Resolver/raw/main/demo.png" width="750" />
 
 ## Requirements
 This userscript requires <a href="https://www.tampermonkey.net/">Tampermonkey</a> (available for <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de">Chrome</a> and <a href="https://addons.mozilla.org/de/firefox/addon/tampermonkey/">Firefox</a>).

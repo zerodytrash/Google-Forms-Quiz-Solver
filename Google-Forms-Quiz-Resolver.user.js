@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  This script tries to extract exact answer conditions from Google Forms and solve them
-// @author       You
+// @author       ZerodyOne (https://github.com/zerodytrash/)
 // @match        https://docs.google.com/forms/*
 // @grant        none
 // @run-at       document-end

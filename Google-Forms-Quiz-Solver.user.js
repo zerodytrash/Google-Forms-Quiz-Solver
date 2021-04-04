@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Google Forms Quiz Resolver
+// @name         Google Forms Quiz Solver
 // @namespace    https://zerody.one
 // @version      0.1
 // @description  This script tries to extract exact answer conditions from Google Forms and solve them

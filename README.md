@@ -7,7 +7,7 @@ Some stupid people abuse the Google Forms validation to create quizzes and givea
 This userscript requires <a href="https://www.tampermonkey.net/">Tampermonkey</a> (available for <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de">Chrome</a> and <a href="https://addons.mozilla.org/de/firefox/addon/tampermonkey/">Firefox</a>).
 
 ## Installation
-Click <a href="https://github.com/zerodytrash/Google-Forms-Quiz-Resolver/raw/main/Google-Forms-Quiz-Resolver.user.js">this link</a> for a smooth installation :)
+Click <a href="https://github.com/zerodytrash/Google-Forms-Quiz-Solver/raw/main/Google-Forms-Quiz-Solver.user.js">this link</a> for a smooth installation :)
 
 ## What we learn from this
 

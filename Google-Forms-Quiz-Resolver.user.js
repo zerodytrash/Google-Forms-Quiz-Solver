@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Google Forms Quiz Resolver
-// @namespace    http://tampermonkey.net/
+// @namespace    https://zerody.one
 // @version      0.1
 // @description  This script tries to extract exact answer conditions from Google Forms and solve them
 // @author       ZerodyOne (https://github.com/zerodytrash/)

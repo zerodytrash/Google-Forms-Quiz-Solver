@@ -6,6 +6,9 @@ Some stupid people abuse the Google Forms validation to create quizzes and givea
 ## Requirements
 This userscript requires <a href="https://www.tampermonkey.net/">Tampermonkey</a> (available for <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de">Chrome</a> and <a href="https://addons.mozilla.org/de/firefox/addon/tampermonkey/">Firefox</a>).
 
+## Installation
+Click <a href="https://github.com/zerodytrash/Google-Forms-Quiz-Resolver/raw/main/Google-Forms-Quiz-Resolver.user.js">this link</a> for a smooth installation :)
+
 ## What we learn from this
 
 Don't use the client side form validation in Google Forms when trying to create a quiz!

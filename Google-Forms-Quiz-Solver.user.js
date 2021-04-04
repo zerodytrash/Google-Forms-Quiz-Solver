@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Forms Quiz Solver
 // @namespace    https://zerody.one
-// @version      0.1
+// @version      0.2
 // @description  This script tries to extract exact answer conditions from Google Forms and solve them
 // @author       ZerodyOne (https://github.com/zerodytrash/)
 // @match        https://docs.google.com/forms/*
@@ -33,8 +33,13 @@
             var validationRule = validationParams[0];
             var valueToFill = null;
 
-            // type: number && match: exact
+            // type: number && match: equal to
             if(validationRule[0] === 1 && validationRule[1] === 5) {
+                valueToFill = validationRule[2][0];
+            }
+
+            // type: text && match: contains
+            if(validationRule[0] === 2 && validationRule[1] === 100) {
                 valueToFill = validationRule[2][0];
             }
 

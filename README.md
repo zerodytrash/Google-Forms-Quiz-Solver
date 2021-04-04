@@ -1,5 +1,5 @@
 # Google Forms Quiz Solver
-Some stupid people abuse the Google Forms validation to create quizzes and giveaways. This is not a good idea because the validation rules are in the source code of any survey. This script tries to extract exact answer conditions ("equal to") from Google Forms and solve them.
+Some people abuse the Google Forms validation to create quizzes and giveaways. This is not a good idea because the validation rules are in the source code of any survey. This script tries to extract exact answer conditions ("equal to" and "contains") from Google Forms and solve them.
 
 <img src="https://github.com/zerodytrash/Google-Forms-Quiz-Resolver/raw/main/demo.png" width="750" />
 
